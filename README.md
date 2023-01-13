@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-O amor por estudos me fez decidir aventurar nos avanços tecnológicos procurando um mundo de possibilidades. Já desenvolvi projetos em Python, HTML, CSS, JS, PHP e MySQL.
+Formanda em Análise e Desenvolvimento de Sistemas. Coisas que gosto demais: pão de queijo, conhecimento, pizza, harmonia e propósitos! Fazer a diferença é estimulante! 
+Desenvolvo conhecimentos de tecnologia diariamente e dentro desse nicho tenho conhecimento de Git e GitHub. Já desenvolvi projetos em Python, HTML, CSS, JS, PHP e MySQL.
 
 - 🌱 Atualmente estudando Python
 - 😄 Pronouns: ela/dela
