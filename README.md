@@ -6,8 +6,7 @@ Desenvolvo conhecimentos de tecnologia diariamente e dentro desse nicho tenho co
 - 🌱 Atualmente estudando Python
 - 😄 Pronouns: ela/dela
 
-![Ssmendes GitHub stats](https://github-readme-stats.vercel.app/api?username=ssmendes&show_icons=true&theme=dracula&line_height=40)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssmendes&theme=dracula)](https://github.com/ssmendes/github-readme-stats) <br><br>
+[![Ssmendes GitHub stats](https://github-readme-stats.vercel.app/api?username=ssmendes)](https://github.com/ssmendes/github-readme-stats) <br><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
 ##
