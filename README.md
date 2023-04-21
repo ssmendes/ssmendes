@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Formanda em Análise e Desenvolvimento de Sistemas. Coisas que gosto demais: pão de queijo, conhecimento, pizza, harmonia e propósitos! Resolvendo problemas do mundo real de forma computacional, fazer a diferença é estimulante! 
+Formada em Análise e Desenvolvimento de Sistemas. Coisas que gosto demais: pão de queijo, conhecimento, pizza, harmonia e propósitos! Resolvendo problemas do mundo real de forma computacional, fazer a diferença é estimulante! 
 Desenvolvo conhecimentos de tecnologia diariamente e dentro desse nicho tenho conhecimento de Git e GitHub. Já desenvolvi projetos em Python, HTML, CSS, JS, PHP e MySQL.
 
-- 🌱 Atualmente estudando Python
+- 🌱 Atualmente estudando C# e JavaScript
 - 😄 Pronouns: ela/dela
 
 [![Ssmendes GitHub stats](https://github-readme-stats.vercel.app/api?username=ssmendes)](https://github.com/ssmendes/github-readme-stats) <br><br>
