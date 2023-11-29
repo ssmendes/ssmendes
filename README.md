@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Formada em Análise e Desenvolvimento de Sistemas. Coisas que gosto demais: pão de queijo, conhecimento, pizza, harmonia e propósitos! Resolvendo problemas do mundo real de forma computacional, fazer a diferença é estimulante! 
+Formada em Análise e Desenvolvimento de Sistemas. Resolvendo problemas do mundo real de forma computacional. 
 Desenvolvo conhecimentos de tecnologia diariamente e dentro desse nicho tenho conhecimento de Git e GitHub. Já desenvolvi projetos em Python, HTML, CSS, JS, PHP e MySQL.
 
 
