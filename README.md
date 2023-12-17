@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Formada em Análise e Desenvolvimento de Sistemas. Resolvendo problemas do mundo real de forma computacional. 
-Desenvolvo conhecimentos de tecnologia diariamente e dentro desse nicho tenho conhecimento de Git e GitHub. Já desenvolvi projetos em Python, HTML, CSS, JS, PHP e MySQL.
+Graduated in Systems Analysis and Development. Solving real-world problems computationally.
+I develop technology knowledge daily and within this niche I have knowledge of Git and GitHub. I have developed projects in Python, HTML, CSS, JS, PHP and MySQL.
 
 
 [![Ssmendes GitHub stats](https://github-readme-stats.vercel.app/api?username=ssmendes)](https://github.com/ssmendes/github-readme-stats) <br><br>
