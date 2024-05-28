@@ -1,6 +1,6 @@
 ### Hi, I'm Stella 👋
 
-Graduated in Systems Analysis and Development. Solving real-world problems computationally.
+Graduated in Systems Analysis and Development. Solving real world problems computationally.
 
 ## 📦 Toolbox
 
